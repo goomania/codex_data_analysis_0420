@@ -43,3 +43,7 @@ python build_foundation_intel.py --output data/founation_intel.csv --target-foun
 
 - The output file name intentionally follows the original request spelling: `founation_intel.csv`.
 - Matching uses keyword heuristics; review records before external outreach.
+
+## Merge conflicts
+
+If your PR shows a conflict on `build_foundation_intel.py`, follow `docs/merge-conflict-resolution.md`.
